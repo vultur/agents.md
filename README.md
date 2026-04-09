@@ -51,7 +51,7 @@
 - Gemini CLI：[使用 GEMINI.md 导入实现上下文模块化](https://geminicli.com/docs/cli/gemini-md/#modularize-context-with-imports)
 - Claude Code：[使用 CLAUDE.md 导入其它文件](https://code.claude.com/docs/zh-CN/memory#agents-md)
 
-**AI IDE 工具/助手**
+### AI IDE 工具/助手
 
 作为智能体的**用户规则**使用。
 
